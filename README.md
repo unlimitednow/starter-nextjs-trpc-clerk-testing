@@ -6,7 +6,7 @@ You can go play with `server/router/todos.ts` for the server side part. And `pag
 
 The entire project, thanks to trpc is typesafe end-to-end, from your xata schema until your react component.
 
-You can update your xata schema and run `npm run xata codegen` to see how everything plays together.
+You can update your xata schema and run `npm run xajta codegen` to see how everything plays together.
 
 ### Creating a Project
 
